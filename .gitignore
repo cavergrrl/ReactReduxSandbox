@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+*/.DS_Store
+out
+gen
+/__test__/components/__snapshots__/
+/__test__/containers/__snapshots__/
+/node_modules/
+/semantic/
+/package-lock.json
